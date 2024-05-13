@@ -1,3 +1,7 @@
 .vs/
 *.suo
 *.user
+
+# Exclure les dossiers de build et leurs contenus
+bin/
+obj/
