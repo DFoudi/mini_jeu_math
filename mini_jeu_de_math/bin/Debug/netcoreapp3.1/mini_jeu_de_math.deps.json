@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "mini_jeu_de_math/1.0.0": {
+        "runtime": {
+          "mini_jeu_de_math.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mini_jeu_de_math/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

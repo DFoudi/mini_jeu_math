@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mini_jeu_de_math", "mini_jeu_de_math\mini_jeu_de_math.csproj", "{4F7B9B14-F72A-4096-81CF-43427D45F3BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F7B9B14-F72A-4096-81CF-43427D45F3BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F7B9B14-F72A-4096-81CF-43427D45F3BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F7B9B14-F72A-4096-81CF-43427D45F3BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F7B9B14-F72A-4096-81CF-43427D45F3BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76ED00DE-1101-4C65-9DB6-FD0896CAF60E}
+	EndGlobalSection
+EndGlobal

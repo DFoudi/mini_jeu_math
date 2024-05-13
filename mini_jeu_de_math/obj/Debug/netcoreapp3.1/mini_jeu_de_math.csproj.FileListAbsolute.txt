@@ -1,0 +1,13 @@
+C:\Users\Bonjour\Desktop\Exercices - C#\Débutant\Jeu de Maths\mini_jeu_de_math\mini_jeu_de_math\bin\Debug\netcoreapp3.1\mini_jeu_de_math.exe
+C:\Users\Bonjour\Desktop\Exercices - C#\Débutant\Jeu de Maths\mini_jeu_de_math\mini_jeu_de_math\bin\Debug\netcoreapp3.1\mini_jeu_de_math.deps.json
+C:\Users\Bonjour\Desktop\Exercices - C#\Débutant\Jeu de Maths\mini_jeu_de_math\mini_jeu_de_math\bin\Debug\netcoreapp3.1\mini_jeu_de_math.runtimeconfig.json
+C:\Users\Bonjour\Desktop\Exercices - C#\Débutant\Jeu de Maths\mini_jeu_de_math\mini_jeu_de_math\bin\Debug\netcoreapp3.1\mini_jeu_de_math.runtimeconfig.dev.json
+C:\Users\Bonjour\Desktop\Exercices - C#\Débutant\Jeu de Maths\mini_jeu_de_math\mini_jeu_de_math\bin\Debug\netcoreapp3.1\mini_jeu_de_math.dll
+C:\Users\Bonjour\Desktop\Exercices - C#\Débutant\Jeu de Maths\mini_jeu_de_math\mini_jeu_de_math\bin\Debug\netcoreapp3.1\mini_jeu_de_math.pdb
+C:\Users\Bonjour\Desktop\Exercices - C#\Débutant\Jeu de Maths\mini_jeu_de_math\mini_jeu_de_math\obj\Debug\netcoreapp3.1\mini_jeu_de_math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bonjour\Desktop\Exercices - C#\Débutant\Jeu de Maths\mini_jeu_de_math\mini_jeu_de_math\obj\Debug\netcoreapp3.1\mini_jeu_de_math.AssemblyInfoInputs.cache
+C:\Users\Bonjour\Desktop\Exercices - C#\Débutant\Jeu de Maths\mini_jeu_de_math\mini_jeu_de_math\obj\Debug\netcoreapp3.1\mini_jeu_de_math.AssemblyInfo.cs
+C:\Users\Bonjour\Desktop\Exercices - C#\Débutant\Jeu de Maths\mini_jeu_de_math\mini_jeu_de_math\obj\Debug\netcoreapp3.1\mini_jeu_de_math.csproj.CoreCompileInputs.cache
+C:\Users\Bonjour\Desktop\Exercices - C#\Débutant\Jeu de Maths\mini_jeu_de_math\mini_jeu_de_math\obj\Debug\netcoreapp3.1\mini_jeu_de_math.dll
+C:\Users\Bonjour\Desktop\Exercices - C#\Débutant\Jeu de Maths\mini_jeu_de_math\mini_jeu_de_math\obj\Debug\netcoreapp3.1\mini_jeu_de_math.pdb
+C:\Users\Bonjour\Desktop\Exercices - C#\Débutant\Jeu de Maths\mini_jeu_de_math\mini_jeu_de_math\obj\Debug\netcoreapp3.1\mini_jeu_de_math.genruntimeconfig.cache
